@@ -38,8 +38,12 @@ bin/console command-name {filepath}
 
 ## Rendu Candidat
 Voici les problèmes que j'ai rencontré et que j'ai essayé de résoudre:
-	job.xml => 	- il manqué le type de contrat(je l'ai trouver dans le sujet) dans le xml
-				- il manqué le id donc je l'ai déterminé avec le client_reference (j'ai pris le 2ème segement séparer par le tiret)
+
+	job.xml:
+	
+	- il manquait le type de contrat(je l'ai trouvé dans le sujet) dans le xml
+	
+	- il manquait l'id donc je l'ai déterminé avec le 'client_reference '(j'ai pris le 2ème segment séparer par le tiret)
 
 
 
